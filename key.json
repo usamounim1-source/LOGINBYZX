@@ -28,13 +28,6 @@
       "isBanned": false,
       "banReason": "Test Key",
       "userRank": "Supreme User"
-    },
-    "Zordex-zzza": {
-      "hwid": "B49F7341C0F367D4",
-      "expireDate": "2026-05-21",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
     }
   }
 }
